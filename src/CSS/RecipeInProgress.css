@@ -1,0 +1,23 @@
+.img {
+  display: flex;
+  justify-content: center;
+}
+
+.photo {
+  height: 352px;
+  width: 360px;
+}
+
+.finish-recipe-btn {
+  width: 100%;
+  bottom: 0;
+  position: fixed;
+  border-radius: 10px;
+  background-color: #f1a367;
+  color: white;
+  border: 2px solid #f1a367;
+}
+
+.input:checked ~ label {
+  text-decoration: line-through;
+}

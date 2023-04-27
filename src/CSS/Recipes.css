@@ -1,0 +1,13 @@
+.food {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.linkRecipes {
+    text-decoration: none;
+}
+
+.drink {
+    display: flex;
+    flex-wrap: wrap;
+}

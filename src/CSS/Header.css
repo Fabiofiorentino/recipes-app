@@ -1,0 +1,46 @@
+/* .conteinerImg {
+    width: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: blueviolet;
+} */
+
+/* .headerImg {
+    color: white;
+    background-image: url("../images/Group40.png");
+    width: 300px;
+    height: 120px;
+    background-color: aqua;
+} */
+
+/* .bigHeader {
+    background-color: rgb(27, 220, 30);
+    display: flex;
+    /* justify-content: space-around; */
+
+
+.header {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: blueviolet; */
+}
+
+.headerButtons {
+    display: flex;
+    align-self: center;
+}
+
+.search {
+    background-color: white;
+    color: black;
+    border: 2px solid white; 
+}
+
+.profile {
+    background-color: white;
+    color: black;
+    border: 2px solid white; 
+}

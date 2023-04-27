@@ -1,0 +1,4 @@
+.recommendations {
+    max-width: 600px;
+    overflow-x: scroll;
+  }

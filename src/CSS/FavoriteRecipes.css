@@ -1,0 +1,56 @@
+.favoritAllFilter {
+    /* margin: 10px; */
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.favoriteConteiner {
+    border-radius: 10px;
+    margin: 15px;
+    height: 170px;
+    display: flex;
+    -webkit-box-shadow: 0px 10px 13px -7px #7D7B7B, inset 1px 12px 50px 4px rgba(65,24,82,0.13); 
+    box-shadow: 0px 10px 13px -7px #7D7B7B, inset 1px 12px 50px 4px rgba(65,24,82,0.13);
+}
+
+.favoritButton {
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    border: 1px solid #f1a367;
+}
+
+.favoritLink {
+    color: #383838;
+    text-decoration: none;
+}
+
+.linkContainer {
+    display: flex;
+}
+
+.favoritImg {
+    padding: 5px;
+    border-radius: 20px;
+    width: 160px;
+    height: 160px;
+}
+
+.favoritInfor {
+    line-height: 15px;
+    padding: 2px;
+}
+
+.favoritButtons {
+    padding: 8px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.favorite-bnt {
+    background-color: white;
+    color: black;
+    border: 2px solid white; 
+}

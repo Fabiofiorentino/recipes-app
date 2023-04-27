@@ -1,0 +1,68 @@
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+.photo {
+    height: 352px;
+    width: 360px;
+}
+
+.table {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.names {
+    padding: 10px;
+    display: flex;
+    line-height: 2px;
+    flex-direction: column;
+    align-content: flex-start;
+}
+
+.buttons {
+    padding: 10px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.conteinerIngred {
+    padding: 10px;
+}
+
+.containerInstruc {
+    padding: 10px;
+}
+
+.containerVideo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.conteinerRecomend {
+    padding: 10px;
+}
+
+.video {
+    height: 300px;
+    width: 350px;
+}
+
+.conteinerButton {
+    display: flex;
+    justify-content: center;
+}
+
+.start-recipe-btn {
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    border-radius: 10px;
+    background-color: #f1a367;
+    color: white;
+    border: 2px solid #f1a367;
+  }
+
