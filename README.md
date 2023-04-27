@@ -21,22 +21,15 @@
 
   <summary><strong>🎛 Linter e Stylelint</strong></summary><br />
 
-  Foi usado o [ESLint](https://eslint.org/) para fazer a análise estática do seu código.
+  Para garantir a qualidade do código de forma a tê-lo mais legível, de mais fácil manutenção e seguindo as boas práticas de desenvolvimento, foi utilizado neste projeto o linter `ESLint`.
+  
 
-  Para garantir a qualidade do código de forma a tê-lo mais legível, de mais fácil manutenção e seguindo as boas práticas de desenvolvimento, foi utilizado neste projeto o linter `ESLint`. Para 
+<summary><b> TheMealDB API</b></summary>
 
-  Você pode também instalar o plugin do `ESLint` no `VSCode`, bastar ir em extensions e baixar o [plugin `ESLint`](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
+      O TheMealDB (https://www.themealdb.com/) é um banco de dados aberto, mantido pela comunidade, com receitas e ingredientes de todo o mundo.
+      Os end-points são bastante ricos, você pode vê-los aqui (https://www.themealdb.com/api.php)
 
-    * <details><summary><b> TheMealDB API</b></summary>
-
-      O [TheMealDB](https://www.themealdb.com/) é um banco de dados aberto, mantido pela comunidade, com receitas e ingredientes de todo o mundo.
-      </details>
-
-      Os end-points são bastante ricos, você pode [vê-los aqui](https://www.themealdb.com/api.php)
-
-    * <details><summary><b> The CockTailDB API</b></summary>
+<summary><b> The CockTailDB API</b></summary>
       Bem similar (inclusive mantida pela mesma entidade) a TheMealDB API, só que focado em bebidas.
 
-      Os end-points também são bastante ricos, você pode [vê-los aqui](https://www.thecocktaildb.com/api.php)
-      
-      </details>
+      Os end-points também são bastante ricos, você pode vê-los aqui (https://www.thecocktaildb.com/api.php)
